@@ -2,6 +2,8 @@
 	"name": "request_header",
 	"version": "0.0.1",
 	"description": "API project for freeCodeCamp",
+	"author": {"name": "Echcherrate Ismail",
+	"email": "echcherrate.ismail@gmail.com"},
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
